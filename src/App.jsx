@@ -32,6 +32,17 @@ function App() {
         </div>
       </div>
     </section>
+
+    <section className='text-gray-700 border-t border-gray-200'>
+      <div className='container px-5 py-24 mx-auto'>
+        <div className='text-center mb-20'>
+          <h1 className='text-2xl sm:text-3xl font-medium mb-2 text-gray-900'>About me</h1>
+          <p className='pb-10'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti eos soluta odio, consectetur obcaecati iure laboriosam itaque? Unde, accusantium ratione.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident eum laboriosam nobis temporibus enim alias voluptatem soluta pariatur iure adipisci asperiores natus est optio quo dignissimos veniam assumenda nulla, quidem ducimus laudantium culpa sequi? Corrupti ea quidem consequatur voluptas magnam. Vero perspiciatis molestias iusto soluta placeat eligendi suscipit deleniti quod, facere reprehenderit corporis unde in ducimus nihil consequuntur quidem, rerum qui. Dolores necessitatibus exercitationem aspernatur a accusamus perspiciatis aliquam accusantium in modi magnam qui tenetur repellat rem ipsum saepe quas, inventore delectus excepturi maxime, fuga, fugit architecto doloribus consequuntur. Dolore sed id dolor illo quod veritatis est cumque reiciendis commodi?</p>
+        </div>
+        <div></div>
+      </div>
+    </section>
     </>
   )
 }
