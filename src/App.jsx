@@ -24,10 +24,12 @@ function App() {
           <h1>
             Hi<br/>im,kou<br/>test<br/>
           </h1>
-          <p></p>
-          <button></button>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quasi sint fugiat totam tempore, aperiam iste reprehenderit illo adipisci magni.</p>
+          <button>Contact Me</button>
         </div>
-        <div></div>
+        <div>
+          <img src="./img/korobanaii.jpg"></img>
+        </div>
       </div>
     </section>
     </>
