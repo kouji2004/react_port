@@ -87,6 +87,49 @@ function App() {
         </div>
       </div>
     </section>
+
+    
+    <section className='text-gray-700 border-t border-gray-200'>
+      <div className='container px-5 py-24 mx-auto flex flex-wrap'>
+        <div className='md:w-1/2 lg:max-w-lg w-5/6 mb-10 lg:mb-0 w-full lg:w-1/2 flex justify-center'>
+          <img src='./img/korobanai.jpg' className='rounded'></img>
+        </div>
+
+        <div className='lg:pl-12 lg:py-6 w-full lg:w-1/2'>
+          <h1 className=' text-2xl sm:text-3xl font-medium text-gray-900 mb-10 text-center lg:text-left'>
+            My Skills
+          </h1>
+          <div>
+            <h1>HTML</h1>
+            <div className='shadow bg-green-100 mt-2 w-full'>
+              <div className='bg-green-600 text-xs leading-none py-1 text-center text-white' 
+              style= {{width: "85%"}}>85%</div>
+            </div>
+          </div>
+          <div>
+            <h1>CSS</h1>
+            <div className='shadow bg-green-100 mt-2 w-full'>
+              <div className='bg-green-600 text-xs leading-none py-1 text-center text-white' 
+              style= {{width: "65%"}}>85%</div>
+            </div>
+          </div>
+          <div>
+            <h1>JavaScript</h1>
+            <div className='shadow bg-green-100 mt-2 w-full'>
+              <div className='bg-green-600 text-xs leading-none py-1 text-center text-white' 
+              style= {{width: "45%"}}>85%</div>
+            </div>
+          </div>
+          <div>
+            <h1>SQL</h1>
+            <div className='shadow bg-green-100 mt-2 w-full'>
+              <div className='bg-green-600 text-xs leading-none py-1 text-center text-white' 
+              style= {{width: "35%"}}>85%</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     </>
   )
 }
